@@ -39,6 +39,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
 
 ## AI Coding Tools
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 33 modes, 6-layer security, 23 hooks, 8 languages, 75% token savings. Cross-platform. `npx @smorky85/aurakit`
 
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
